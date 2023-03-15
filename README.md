@@ -16,8 +16,10 @@ A demonstration of using [Advanced Custom Fields (ACF)](https://www.advancedcust
 
 Includes:
 
-- WP Engine's [Frost](https://frostwp.com) theme with patterns automatically generated and saved to the theme's `/patterns/` directory
-  - `themes/frost/patterns/recipe-***.php`
+- WP Engine's [Frost](https://frostwp.com) theme with patterns automatically generated and saved to the theme's `/patterns/` directory. Again, created with Pattern Manager, which also saves media (images) alongside each pattern within the theme!
+  - [`themes/frost/patterns/recipe-full-page-columns.php`](https://github.com/colorful-tones/acf-recipes/blob/main/themes/frost-trunk/patterns/recipe-full-page-columns.php)
+  - [`themes/frost/patterns/recipe-full-page-complex.php`](https://github.com/colorful-tones/acf-recipes/blob/main/themes/frost-trunk/patterns/recipe-full-page-complex.php)
+  - [`themes/frost/patterns/patterns/recipe-full-page-simple.php`](patterns/recipe-full-page-simple.php)
 
 The root of this repo represents the `wp-content/` directory of your WordPress install.
 
