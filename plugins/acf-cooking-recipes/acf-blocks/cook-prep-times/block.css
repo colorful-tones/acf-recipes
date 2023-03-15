@@ -1,0 +1,9 @@
+/*-----------------------------------
+ * Actual block styling.
+ *-----------------------------------
+*/
+.wp-block-acf-recipe-cook-prep-times .is-vertical {
+	gap: 0;
+	flex-direction: column;
+	align-items: flex-start;
+}

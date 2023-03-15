@@ -1,0 +1,34 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "acf-recipe/cook-prep-times",
+	"title": "Cook & prep times",
+	"description": "Show cook and prep times",
+	"category": "acf-recipe-blocks",
+	"icon": "food",
+	"keywords": [
+		"recipe",
+		"time",
+		"prep"
+	],
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "render.php"
+	},
+	"supports": {
+		"align": false,
+		"alignContent": false,
+		"color": {
+			"text": true,
+			"background": true
+		},
+		"spacing": {
+			"margin": [
+				"top",
+				"bottom"
+			],
+			"padding": true
+		}
+	},
+	"style": [ "file:./block.css", "core-block-supports", "wp-block-group" ]
+}
