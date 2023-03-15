@@ -2,6 +2,10 @@
 
 Final demo site 👉 [acfrecipes.wpenine.com](https://acfrecipes.wpengine.com)
 
+💥[Slides for this presentation](https://acfrecipes.wpengine.com/presentation/acf/) 💥
+
+<sub><sup>(_This presentation was also created as a CPT and with Pattern Manager_ 🏎)</sup></sub>
+
 A demonstration of using [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/) to:
 
 1. Create a custom post type: `Recipe`
@@ -13,6 +17,7 @@ A demonstration of using [Advanced Custom Fields (ACF)](https://www.advancedcust
     - Assign the block patterns to the Recipe post type
     - Make it available in the Recipe new post modal for editors
     - Register a custom block pattern category for Recipes
+6. Set a custom load & save point for ACF JSON. So we can version control our ACF generated CPT, taxonomy, and field groups directly in our custom plugin: [`plugins/acf-cooking-recipes/acf-json`](https://github.com/colorful-tones/acf-recipes/tree/main/plugins/acf-cooking-recipes/acf-json)
 
 Includes:
 
