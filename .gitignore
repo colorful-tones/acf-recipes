@@ -7,7 +7,7 @@
 # WordPress themes
 #---------------------------
 /themes/*
-!/themes/frost
+!/themes/frost-trunk
 
 #---------------------------
 # WordPress plugins
