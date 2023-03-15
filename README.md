@@ -2,7 +2,7 @@
 
 Final demo site 👉 [acfrecipes.wpenine.com](https://acfrecipes.wpengine.com)
 
-💥[Slides for this presentation](https://acfrecipes.wpengine.com/presentation/acf/) 💥
+💥 [Slides for this presentation](https://acfrecipes.wpengine.com/presentation/acf/) 💥
 
 <sub><sup>(_This presentation was also created as a CPT and with Pattern Manager_ 🏎)</sup></sub>
 
@@ -32,6 +32,8 @@ All of the content used to populate this learning resource site was sourced from
 
 ## Resources
 
+* [What’s new with ACF Blocks in ACF 6
+](https://www.advancedcustomfields.com/resources/whats-new-with-acf-blocks-in-acf-6/)
 * [Branched deploys to WP Engine with GitHub Actions](https://wpengine.com/builders/branched-deploys-to-wp-engine-with-github-actions/)
 * [GitHub Action for WP Engine Site Deployments](https://wpengine.com/support/github-action-deploy/)
 * [GitHub Action - Deploy WordPress to WP Engine](https://github.com/marketplace/actions/deploy-wordpress-to-wp-engine)
