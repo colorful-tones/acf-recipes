@@ -30,6 +30,16 @@ The root of this repo represents the `wp-content/` directory of your WordPress i
 
 All of the content used to populate this learning resource site was sourced from [SimplyRecipes.com](https://simplyrecipes.com)
 
+## Requirements
+
+1. [ACF PRO](https://www.advancedcustomfields.com/pro/) 6.1.0-alpha1 – for ACF stuff.
+2. [Gutena Newsletter](https://wordpress.org/plugins/newsletter-block-by-gutena/) 1.1.4 – for newsletter block in footer template part.
+
+### Optional
+
+1. [Pattern Manager](https://wpengine.com/builders/pattern-manager/) 0.1.3 – if you want to create and maintain further patterns, but not necessary if you do not.
+2. [WordPress Beta Tester](https://wordpress.org/plugins/wordpress-beta-tester/) 3.2.9 – if you want to run the latest WP 6.2 RC2, which was used in the demo, but WP 6.1 will likely work just fine.
+
 ## Resources
 
 * [What’s new with ACF Blocks in ACF 6
