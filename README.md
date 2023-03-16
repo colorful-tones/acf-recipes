@@ -49,3 +49,11 @@ All of the content used to populate this learning resource site was sourced from
 * [Branched deploys to WP Engine with GitHub Actions](https://wpengine.com/builders/branched-deploys-to-wp-engine-with-github-actions/)
 * [GitHub Action for WP Engine Site Deployments](https://wpengine.com/support/github-action-deploy/)
 * [GitHub Action - Deploy WordPress to WP Engine](https://github.com/marketplace/actions/deploy-wordpress-to-wp-engine)
+
+## Changelog
+
+- March 16, 2023
+  - Fixed misspelling of demo site
+  - Add 'Requirements' section in README
+  - Add `lazyrecipes.WordPress.2023-03-16.xml` WordPress export of Recipes custom post type
+- March 15, 2023 – initial push of repo with ACF Cooking Recipes plugin and Frost theme
