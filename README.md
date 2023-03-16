@@ -1,6 +1,6 @@
 # ACF Recipes
 
-Final demo site 👉 [acfrecipes.wpenine.com](https://acfrecipes.wpengine.com)
+Final demo site 👉 [acfrecipes.wpengine.com](https://acfrecipes.wpengine.com)
 
 💥 [Slides for this presentation](https://acfrecipes.wpengine.com/presentation/acf/) 💥
 
@@ -12,8 +12,7 @@ A demonstration of using [Advanced Custom Fields (ACF)](https://www.advancedcust
 2. Create a custom taxonomy: `Recipe Types` (e.g. breakfast, lunch, dinner)
 3. Create custom fields group: Cook & Prep Times
 4. Create a custom [ACF Block](https://www.advancedcustomfields.com/resources/whats-new-with-acf-blocks-in-acf-6/): **Cook & Prep Times** that utilizes the custom fields and is available for the Recipe custom post type
-    - Also, [register a custom block category](https://github.com/colorful-tones/acf-recipes/blob/main/plugins/acf-cooking-recipes/acf-cooking-recipes.php#L50): `Recipes` to put the Cook & Prep Times block under.
-5. Create custom block patterns using WP Engine's [Pattern Manager](https://wpengine.com/builders/pattern-manager/)
+    - Also, [register a custom block category](https://github.com/colorful-tones/acf-recipes/blob/main/plugins/acf-cooking-recipes/acf-cooking-recipes.php#L50): `Recipes` to put the Cook & Prep Times block under.5. Create custom block patterns using WP Engine's [Pattern Manager](https://wpengine.com/builders/pattern-manager/)
     - Assign the block patterns to the Recipe post type
     - Make it available in the Recipe new post modal for editors
     - Register a custom block pattern category for Recipes
